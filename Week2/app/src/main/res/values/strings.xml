@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">week_2</string>
+    <string name="first_nb">Enter first number</string>
+    <string name="second_nb">Enter second number</string>
+
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="multiply">x</string>
+    <string name="divide">/</string>
+
+    <string name="result">Result: 0</string>
+    <string name="result_value">Result: %1$.2f</string>
+
+    <string name="first_number_empty">First number cannot be empty</string>
+    <string name="second_number_empty">Second number cannot be empty</string>
+
+    <string name="divide_by_zero">Cannot divide by zero</string>
+    <string name="unknown_operation">Unknown operation</string>
+
+    <string name="reset">Reset</string>
+</resources>
